@@ -3,7 +3,7 @@
 
 ### Descripción
 
-Proyecto base con sistema de authenticación:
+Proyecto base con sistema de autenticación:
 - [x] Login
     - Email
     - Username
